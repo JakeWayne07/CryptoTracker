@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">CryptoTracker</string>
+    <string name="error_text">Error</string>
+    <string name="intro">Price Here</string>
+    <string name="base_currency">Base Currency</string>
+
+    <string-array name="currency_array">
+        <item>BTC</item>
+        <item>ETH</item>
+        <item>XRP</item>
+    </string-array>
+</resources>
